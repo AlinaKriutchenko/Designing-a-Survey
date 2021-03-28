@@ -1,5 +1,5 @@
 # MIS770 - Foundation Skills In Data Analysis 
-Excel
+Software program: Excel
 
 This unit aims to develop foundation skills and knowledge required for data driven, evidence based approaches to business decision making and business performance analysis. To this end, the unit first introduces the skills necessary to enable an understanding of business metrics. 
 
